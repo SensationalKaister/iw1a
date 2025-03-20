@@ -1,0 +1,21 @@
+body, html{
+    background-color: gold;
+}
+div{
+    border: 5px solid blue;
+}
+p{
+    border: 5px solid orange;
+}
+h1{
+    border: 5px solid red;
+    width: 250px;
+    border: 5px solid black;
+}
+.card-imagem{
+    margin-top:25px;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-bottom: 100pc;
+    border: 3px double black;
+}
